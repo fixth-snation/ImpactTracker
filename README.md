@@ -10,4 +10,4 @@ Contributing
 License
 Contact
 # Introduction
-The Public Servant Project Tracker is designed to enhance transparency and accountability by enabling citizens to document and view the utterances, projects and scandals undertaken by their public servants. This web application can serve as a valuable tool for promoting civic engagement and accountability. Once the project is complete it will be deployed and made publicly available for the Kenyan people to contribute.
+The ImpactTracker is designed to enhance transparency and accountability by enabling citizens to document and view the utterances, projects and scandals undertaken by their public servants. This web application can serve as a valuable tool for promoting civic engagement and accountability. Once the project is complete it will be deployed and made publicly available for the Kenyan people to contribute.
